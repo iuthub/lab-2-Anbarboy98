@@ -1,0 +1,19 @@
+body{
+	background-color: gray;
+}
+h1{
+	color:lightblue;
+}
+h3{
+	color:lightblue;
+}
+li{
+	color:white;
+}
+p{
+	border-width: 35px;
+	color: white;
+}
+span{
+	color:yellow;
+}
